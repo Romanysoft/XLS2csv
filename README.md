@@ -5,11 +5,11 @@
 
 =======
 
-* [![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_124/v1411092419/app-store-button_pw05je.png)](https://itunes.apple.com/us/app/xls2csv/id865279629?l=zh&ls=1&mt=12)
-
-* [![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_96/v1413430765/feedback_vm8mqi.png)](https://github.com/Romanysoft/XLS2csv/issues)
-
-
+![](https://github.com/Romanysoft/XLS2csv/blob/master/images/mzl.duedsqai.png)
+![](https://github.com/Romanysoft/XLS2csv/blob/master/images/mzl.dujrmogz.png)
+![](https://github.com/Romanysoft/XLS2csv/blob/master/images/mzl.efpyqrvl.png)
+![](https://github.com/Romanysoft/XLS2csv/blob/master/images/mzl.gkxqursb.png)
+![](https://github.com/Romanysoft/XLS2csv/blob/master/images/mzl.pyowposy.png)
 
 
 XLS2csv app, this Mac OS X utility allows the user to export excle(.xls) in one or more CSV files very quickly.
@@ -23,8 +23,4 @@ Features:
 ***
 
 
-![](https://github.com/Romanysoft/XLS2csv/blob/master/images/mzl.duedsqai.png)
-![](https://github.com/Romanysoft/XLS2csv/blob/master/images/mzl.dujrmogz.png)
-![](https://github.com/Romanysoft/XLS2csv/blob/master/images/mzl.efpyqrvl.png)
-![](https://github.com/Romanysoft/XLS2csv/blob/master/images/mzl.gkxqursb.png)
-![](https://github.com/Romanysoft/XLS2csv/blob/master/images/mzl.pyowposy.png)
+
