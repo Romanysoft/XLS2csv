@@ -1,0 +1,126 @@
+{
+    "TopBar": {
+        "Home": "මුල් පිටුව",
+        "Feature": "විශේෂාංග",
+        "Documents": "ලිපි ලේඛන",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "නිදහස් ට්රයල්",
+        "Buy": "මිලට ගන්න",
+        "Roadmap": "මාර්ග සිතියමක්",
+        "ReportIssue": "වාර්තාව නිකුත් කිරීම",
+        "Languages": "භාෂා"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "ඉතා ප්රයෝජනවත් යෙදුම. MacOSX මෙහෙයුම් පද්ධතිය සඳහා සුදුසු.",
+        "BtnDownload": "නිදහස් ට්රයල්",
+        "BtnBuy": "මිලදී",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "ප්රධාන ලක්ෂණ",
+            "list": [
+                "ඉතා ඉක්මණින් CSV අපනයන excle (.xls).",
+                "සහාය කණ්ඩායම බවට පරිවර්තනය.",
+                "පරිවර්තනය අභිරුචි විකල්ප සහයෝගය දෙන්න.",
+                "පෙරදසුන excle දත්ත සහ සියලු පත (හෝ එක් පත්රය) තෝරා සහය දක්වයි",
+                "බහු-භාෂා පහසුකම."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "මහලොකු දේවල් ජනතාව ඒ ගැන කියන්නේ",
+            "list": []
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{quick_start}}",
+                "section": "ඉක්මන් අරඹන්න",
+                "videos": [
+                    {
+                        "description": "ඉක්මන් අරඹන්න, මාර්ගෝපදේශය ඇරඹුම",
+                        "url": "{{videos/docs/quick_start.mp4}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "ReleaseNotePage": {
+        "labelVersion": "සංස්කරණය අංකය",
+        "list": [
+            {
+                "version": "{{4.17}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] support batch conversion.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] support transformation parameters Settings}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] internal engine upgrades}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] repair the empty Sheet transformation error problem}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "සංස්කරණය අංකය",
+        "list": [
+            {
+                "version": "{{4.17}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{XLS2csv-v4.17.0-darwin-x64.zip}}",
+                        "size": "{{6.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2o53oytm5pbr/XLS2csv-v4.17.0-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "මාර්ගය මිලදී ගන්න",
+        "list": [
+            {
+                "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=526544543687}}"
+            },
+            {
+                "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-43}}"
+            },
+            {
+                "name": "{{XLS2csv for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/xls2csv/id865279629?l=zh&ls=1&mt=12}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ලබා ගත හැකි භාෂා",
+        "ChangeAlert": "සම්පූර්ණ බස මාරු"
+    }
+}

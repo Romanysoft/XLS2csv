@@ -1,0 +1,126 @@
+{
+    "TopBar": {
+        "Home": "Home Page",
+        "Feature": "Atụmatụ",
+        "Documents": "Documents",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Free Trial",
+        "Buy": "Ịzụta",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "Report Esemokwu",
+        "Languages": "Asụsụ"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Nnọọ uru App. Adabara MacOSX sistemụ.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Ịzụ",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main Atụmatụ",
+            "list": [
+                "Export excle (.xls) ka CSV nnọọ ngwa ngwa.",
+                "Nkwado ogbe akakabarede.",
+                "Nkwado akakabarede omenala nhọrọ.",
+                "Preview excle data ma họrọ niile mpempe akwụkwọ (ma ọ bụ otu mpempe akwụkwọ) na-akwado",
+                "Multi-asụsụ nkwado."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Ihe ndị dị ebube ndị mmadụ na-ekwu banyere ya",
+            "list": []
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{quick_start}}",
+                "section": "Ndenye Malite",
+                "videos": [
+                    {
+                        "description": "Ndenye Malite, amalite Amalite Guide",
+                        "url": "{{videos/docs/quick_start.mp4}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "ReleaseNotePage": {
+        "labelVersion": "Version Number",
+        "list": [
+            {
+                "version": "{{4.17}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] support batch conversion.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] support transformation parameters Settings}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] internal engine upgrades}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] repair the empty Sheet transformation error problem}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version Number",
+        "list": [
+            {
+                "version": "{{4.17}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{XLS2csv-v4.17.0-darwin-x64.zip}}",
+                        "size": "{{6.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2o53oytm5pbr/XLS2csv-v4.17.0-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy Way",
+        "list": [
+            {
+                "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=526544543687}}"
+            },
+            {
+                "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-43}}"
+            },
+            {
+                "name": "{{XLS2csv for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/xls2csv/id865279629?l=zh&ls=1&mt=12}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "E Nwere Asụsụ",
+        "ChangeAlert": "Complete mgba ọkụ asụsụ"
+    }
+}

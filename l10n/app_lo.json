@@ -1,0 +1,126 @@
+{
+    "TopBar": {
+        "Home": "ຫນ້າ​ທໍາ​ອິດ",
+        "Feature": "ຄຸນ​ລັກ​ສະ​ນະ",
+        "Documents": "ເອ​ກະ​ສານ",
+        "ReleaseNotes": "releasenotes",
+        "Downloads": "ການ​ທົດ​ລອງ​ຟຣີ",
+        "Buy": "ຊື້",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "ສະ​ບັບ Report",
+        "Languages": "ພາ​ສາ"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "ເປັນ​ປະ​ໂຫຍດ​ຫຼາຍ App​. ເຫມາະ​ສົມ​ສໍາ​ລັບ​ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ MacOSX​.",
+        "BtnDownload": "ການ​ທົດ​ລອງ​ຟຣີ",
+        "BtnBuy": "ຊື້",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "ຄຸນ​ນະ​ສົມ​ບັດ​ຕົ້ນ​ຕໍ",
+            "list": [
+                "ບໍ່​ລວມ​ການ​ສົ່ງ​ອອກ (xls​) ເພື່ອ CSV ຫຼາຍ​ຢ່າງ​ວ່ອງ​ໄວ​.",
+                "ການ​ແປງ​ຊຸດ​ສະ​ຫນັບ​ສະ​ຫນູນ​.",
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ທາງ​ເລືອກ custom ການ​ປ່ຽນ​ແປງ​.",
+                "ສະ​ແດງ​ຂໍ້​ມູນ​ບໍ່​ລວມ​ແລະ​ຄັດ​ເລືອກ​ເອົາ​ເອ​ກະ​ສານ​ທັງ​ຫມົດ (ຫຼື​ເອ​ກະ​ສານ​) ແມ່ນ​ສະ​ຫນັບ​ສະ​ຫນູນ",
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ຫຼາຍ​ພາ​ສາ​."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "ສິ່ງ​ທີ່​ປະ​ເສີດ​ປະ​ຊາ​ຊົນ​ເວົ້າ​ກ່ຽວ​ກັບ​ມັນ",
+            "list": []
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{quick_start}}",
+                "section": "ການ​ເລີ່ມ",
+                "videos": [
+                    {
+                        "description": "ຄູ່​ມື​ການ​ເລີ່ມ​ຕົ້ນ​ໄວ​, ການ​ເລີ່ມ​ຕົ້ນ",
+                        "url": "{{videos/docs/quick_start.mp4}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "ReleaseNotePage": {
+        "labelVersion": "ຈໍາ​ນວນ Version",
+        "list": [
+            {
+                "version": "{{4.17}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] support batch conversion.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] support transformation parameters Settings}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] internal engine upgrades}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] repair the empty Sheet transformation error problem}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "ຈໍາ​ນວນ Version",
+        "list": [
+            {
+                "version": "{{4.17}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{XLS2csv-v4.17.0-darwin-x64.zip}}",
+                        "size": "{{6.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2o53oytm5pbr/XLS2csv-v4.17.0-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "ຊື້ Way",
+        "list": [
+            {
+                "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=526544543687}}"
+            },
+            {
+                "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-43}}"
+            },
+            {
+                "name": "{{XLS2csv for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/xls2csv/id865279629?l=zh&ls=1&mt=12}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ພາ​ສາ​ທີ່​ມີ",
+        "ChangeAlert": "ພາ​ສາ​ທີ່​ສົມ​ບູນ​ສະ​ຫຼັບ"
+    }
+}

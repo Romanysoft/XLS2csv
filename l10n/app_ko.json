@@ -1,0 +1,126 @@
+{
+    "TopBar": {
+        "Home": "홈 페이지",
+        "Feature": "풍모",
+        "Documents": "서류",
+        "ReleaseNotes": "릴리즈 노트",
+        "Downloads": "무료 시험판",
+        "Buy": "사기",
+        "Roadmap": "할일 : 개발 예정표",
+        "ReportIssue": "문제 신고",
+        "Languages": "언어"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "매우 유용한 응용 프로그램. 에서라도 운영 체제에 적합합니다.",
+        "BtnDownload": "무료 시험판",
+        "BtnBuy": "매수",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "주요 특징",
+            "list": [
+                "수출 excle (.XLS)는 매우 빠르게 CSV로.",
+                "지원 일괄 변환.",
+                "지원 변환 사용자 정의 옵션.",
+                "미리보기 excle 데이터와 모든 시트 (또는 시트)을 선택이 지원됩니다",
+                "다중 언어를 지원합니다."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "사람들이 그것에 대해 말하는 멋진 물건",
+            "list": []
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{quick_start}}",
+                "section": "빠른 시작",
+                "videos": [
+                    {
+                        "description": "빠른 시작, 시작 안내서",
+                        "url": "{{videos/docs/quick_start.mp4}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "ReleaseNotePage": {
+        "labelVersion": "버전 번호",
+        "list": [
+            {
+                "version": "{{4.17}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] support batch conversion.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] support transformation parameters Settings}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] internal engine upgrades}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] repair the empty Sheet transformation error problem}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "버전 번호",
+        "list": [
+            {
+                "version": "{{4.17}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{XLS2csv-v4.17.0-darwin-x64.zip}}",
+                        "size": "{{6.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2o53oytm5pbr/XLS2csv-v4.17.0-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "구입 방법",
+        "list": [
+            {
+                "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=526544543687}}"
+            },
+            {
+                "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-43}}"
+            },
+            {
+                "name": "{{XLS2csv for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/xls2csv/id865279629?l=zh&ls=1&mt=12}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "사용 가능한 언어",
+        "ChangeAlert": "전체 언어 변경"
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "TopBar": {
+        "Home": "ਮੁੱਖ ਪੰਨਾ",
+        "Feature": "ਫੀਚਰ",
+        "Documents": "ਦਸਤਾਵੇਜ਼",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "ਮੁਫ਼ਤ ਮੁਕੱਦਮੇ",
+        "Buy": "ਖਰੀਦੋ",
+        "Roadmap": "ਖਾਕਾ",
+        "ReportIssue": "ਰਿਪੋਰਟ ਜਾਰੀ",
+        "Languages": "ਭਾਸ਼ਾ"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "ਬਹੁਤ ਹੀ ਲਾਭਦਾਇਕ ਹੈ App. MacOSX ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਲਈ ਯੋਗ.",
+        "BtnDownload": "ਮੁਫ਼ਤ ਮੁਕੱਦਮੇ",
+        "BtnBuy": "ਖਰੀਦ",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "ਮੁੱਖ ਫੀਚਰ",
+            "list": [
+                "ਐਕਸਪੋਰਟ excle (.xls) ਬਹੁਤ ਹੀ ਤੇਜ਼ੀ ਨਾਲ CSV ਕਰਨ ਲਈ.",
+                "ਸਹਿਯੋਗ ਬੈਚ ਤਬਦੀਲੀ.",
+                "ਸਹਿਯੋਗ ਤਬਦੀਲੀ ਕਸਟਮ ਚੋਣ ਨੂੰ.",
+                "ਜਾਣਕਾਰੀ ਦੇ excle ਡਾਟਾ ਅਤੇ ਸਾਰੇ ਸ਼ੀਟ (ਜ ਇੱਕ ਸ਼ੀਟ) ਦੀ ਚੋਣ ਸਹਿਯੋਗੀ ਹਨ",
+                "ਮਲਟੀ-ਭਾਸ਼ਾ ਸਹਿਯੋਗ."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "ਲੋਕ ਇਸ ਬਾਰੇ ਕਹਿ ਰਹੇ ਹਨ ਅਚਰਜ ਕੁਝ",
+            "list": []
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{quick_start}}",
+                "section": "ਤੇਜ਼ ਸ਼ੁਰੂਆਤੀ",
+                "videos": [
+                    {
+                        "description": "ਤੇਜ਼ ਸ਼ੁਰੂਆਤੀ, ਸ਼ੁਰੂ ਗਾਈਡ",
+                        "url": "{{videos/docs/quick_start.mp4}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "ReleaseNotePage": {
+        "labelVersion": "ਵਰਜਨ ਨੰਬਰ",
+        "list": [
+            {
+                "version": "{{4.17}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] support batch conversion.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] support transformation parameters Settings}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] internal engine upgrades}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] repair the empty Sheet transformation error problem}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "ਵਰਜਨ ਨੰਬਰ",
+        "list": [
+            {
+                "version": "{{4.17}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{XLS2csv-v4.17.0-darwin-x64.zip}}",
+                        "size": "{{6.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2o53oytm5pbr/XLS2csv-v4.17.0-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "ਖਰੀਦੋ ਰਾਹ",
+        "list": [
+            {
+                "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=526544543687}}"
+            },
+            {
+                "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-43}}"
+            },
+            {
+                "name": "{{XLS2csv for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/xls2csv/id865279629?l=zh&ls=1&mt=12}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ਉਪਲੱਬਧ ਭਾਸ਼ਾ",
+        "ChangeAlert": "ਮੁਕੰਮਲ ਸਵਿੱਚ ਭਾਸ਼ਾ"
+    }
+}
