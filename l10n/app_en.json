@@ -1,131 +1,86 @@
 {
-  "TopBar": {
-    "Home": "Home Page",
-    "Feature": "Features",
-    "Documents": "Documents",
-    "ReleaseNotes": "ReleaseNotes",
-    "Downloads": "Free Trial",
-    "Buy": "Buy",
-    "Roadmap": "RoadMap",
-    "ReportIssue": "Report Issue",
-    "Languages": "Language"
-  },
-  "Footer": {
-  },
-  "HomePage": {
-    "ProjectTagline": "Very useful App. Suitable for MacOSX operating system.",
-    "BtnDownload": "Free Trial",
-    "BtnBuy": "Purchase",
-    "Screens": [
-      "{{images/screens/common/c1.jpg}}",
-      "{{images/screens/common/c2.jpg}}",
-      "{{images/screens/common/c3.jpg}}",
-      "{{images/screens/common/c4.jpg}}",
-      "{{images/screens/common/c5.jpg}}",
-      "{{images/screens/common/c6.jpg}}"
-    ],
-    "Features": {
-      "SectionName": "Main Features",
-      "list": [
-        "Export excle(.xls) to csv very quickly.",
-        "Support Batch conversion.",
-        "Support conversion custom options.",
-        "Preview excle data and select all sheet (or one sheet) are supported",
-        "Multi-language support."
-      ]
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
     },
-    "UserReviews": {
-      "SectionName": "Wonderful things people are saying about it",
-      "list": [
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Simple, but powerful kernel Excel (. xls) file Export CSV tool",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Buy",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "Export excle(.xls) to csv very quickly.",
+                "Support Batch conversion.",
+                "Support conversion custom options.",
+                "Preview excle data and select all sheet (or one sheet) are supported",
+                "Multi-language support."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about it",
+            "list": [
 
-      ]
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [{
+            "hrefID": "{{quick_start}}",
+            "section": "{{Quick Start}}",
+            "videos": [{
+                "description": "{{Quick Start, Getting Started Guide}}",
+                "url": "{{videos/docs/quick_start.mp4}}"
+            }]
+        }]
+    },
+
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [{
+            "version": "{{4.17}}",
+            "zipList": [{
+                "osUrl": "{{images/download/osx.png}}",
+                "name": "{{XLS2csv-v4.17.0-darwin-x64.zip}}",
+                "size": "{{6.5MB}}",
+                "downURL": "{{http://www.filefactory.com/file/2o53oytm5pbr/XLS2csv-v4.17.0-darwin-x64.zip}}"
+            }]
+        }]
+    },
+    "BuyPage": {
+        "SectionName": "Buy Way",
+        "list": [{
+            "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+            "logo": "{{images/buy/taobao.png}}",
+            "price": "{{60 RMB}}",
+            "buyURL": "{{https://item.taobao.com/item.htm?id=526544543687}}"
+        }, {
+            "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
+            "logo": "{{images/buy/buy.png}}",
+            "price": "{{$9.99}}",
+            "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-43}}"
+        }]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available Languages",
+        "ChangeAlert": "Complete switch language"
     }
-  },
-  "FeaturePage": {
-  },
-  "DocumentsPage": {
-    "list": [
-      {
-        "hrefID": "{{quick_start}}",
-        "section": "Quick Start",
-        "videos": [
-          {
-            "description": "Quick Start, Getting Started Guide",
-            "url": "{{videos/docs/quick_start.mp4}}"
-          }
-        ]
-      }
-    ]
-  },
-  "ReleaseNotePage": {
-    "labelVersion": "Version Number ",
-    "list": [
-      {
-        "version": "{{4.17}}",
-        "list": [
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Update] support batch conversion.}}"
-          },
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Update] support transformation parameters Settings}}"
-          },
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Update] internal engine upgrades}}"
-          },
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Bug] repair the empty Sheet transformation error problem}}"
-          }          
-        ]
-      }
-    ]
-  },
-  "VersionPage": {
-    "labelVersion": "Version Number",
-    "list": [
-      {
-        "version": "{{4.17}}",
-        "zipList": [
-          {
-            "osUrl": "{{images/download/osx.png}}",
-            "name": "{{XLS2csv-v4.17.0-darwin-x64.zip}}",
-            "size": "{{6.5MB}}",
-            "downURL": "{{http://www.filefactory.com/file/2o53oytm5pbr/XLS2csv-v4.17.0-darwin-x64.zip}}"
-          }
-        ]
-      }
-    ]
-  },
-  "BuyPage": {
-    "SectionName": "Buy Way",
-    "list": [
-      {
-        "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
-        "logo": "{{images/buy/taobao.png}}",
-        "price": "{{60 RMB}}",
-        "buyURL": "{{https://item.taobao.com/item.htm?id=526544543687}}"
-      },
-      {
-        "name": "{{XLS2csv for MacOSX, for MacOSX 10.7 and later}}",
-        "logo": "{{images/buy/buy.png}}",
-        "price": "{{$9.99}}",
-        "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-43}}"
-      },
-      {
-        "name": "{{XLS2csv for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
-        "logo": "{{images/buy/mas.png}}",
-        "price": "{{$9.99}}",
-        "buyURL": "{{https://itunes.apple.com/us/app/xls2csv/id865279629?l=zh&ls=1&mt=12}}"
-      }
-    ]
-  },
-  "RoadMapPage": {
-  },
-  "LanguagesPage": {
-    "SectionName": "Available Languages",
-    "ChangeAlert": "Complete switch language"
-  }
 }
