@@ -5,11 +5,11 @@
         documentTitle:"XLS2csv By Romanysoft",
         supportPlatforms:["Mac"],
         googleUA:"UA-43238484-8",
-        gitHome:"https://github.com/Romanysoft/XLS2csv",
-        reportIssueUrl:"https://github.com/Romanysoft/XLS2csv/issues",
-        changeLogUrl:"https://github.com/Romanysoft/XLS2csv/wiki/Changelog",
-        wikiUrl:"https://github.com/Romanysoft/XLS2csv/wiki",
-        romanysoftHome:"http://www.romanysoft.com",
+        gitHome:"//github.com/Romanysoft/XLS2csv",
+        reportIssueUrl:"//github.com/Romanysoft/XLS2csv/issues",
+        changeLogUrl:"//github.com/Romanysoft/XLS2csv/wiki/Changelog",
+        wikiUrl:"//github.com/Romanysoft/XLS2csv/wiki",
+        romanysoftHome:"//www.romanysoft.com",
         copyright:"Copyright © " + (new Date()).getFullYear() + " Romanysoft LAB."
     }
 })();
