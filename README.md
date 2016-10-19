@@ -4,7 +4,7 @@ Welcome to the _**XLS2csv**_ wiki!
 
 
 
-_**XLS2csv**_ app. Simple, but powerful kernel Excel (. xls) file Export CSV tool.
+_**XLS2csv**_ app. Simple, but powerful to process Excel (. xls) file to CSV. 
 
 * (1) Preview excle data and select all sheet (or one sheet) are supported.
 * (2) Setting csv file encoding and csv file separator are supported.
