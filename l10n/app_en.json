@@ -101,18 +101,10 @@
         "SectionName": "Buy Way",
         "list": [
             {
-            "name": "{{XLS2csv for Mac}}",
-            "logo": "{{images/buy/buy.png}}",
-            "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-43}}"
-        }, {
-            "name": "{{XLS2csv for Mac}}",
-            "logo": "{{images/buy/mas.png}}",
-            "buyURL": "{{https://itunes.apple.com/us/app/xls2csv/id865279629?l=zh&ls=1&mt=12}}"
-        },{
-            "name": "{{XLS2csv for Mac}}",
-            "logo": "{{images/buy/taobao.png}}",
-            "buyURL": "{{https://item.taobao.com/item.htm?id=526544543687}}" 
-        }
+                "name": "{{XLS2csv for Mac}}",
+                "logo": "{{images/buy/buy.png}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-43}}"
+            }
         ]
     },
     "RoadMapPage": {},
