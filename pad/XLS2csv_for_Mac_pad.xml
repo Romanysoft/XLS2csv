@@ -76,9 +76,9 @@
     <Program_System_Requirements>OS X 10.7 or later</Program_System_Requirements>
     <Program_Category_Class>Business::Databases &amp; Tools</Program_Category_Class>
     <File_Info>
-      <File_Size_Bytes>6513664</File_Size_Bytes>
-      <File_Size_K>6361</File_Size_K>
-      <File_Size_MB>6.21</File_Size_MB>
+      <File_Size_Bytes>8538112</File_Size_Bytes>
+      <File_Size_K>8338</File_Size_K>
+      <File_Size_MB>8.14</File_Size_MB>
       <Filename_Versioned></Filename_Versioned>
       <Filename_Previous></Filename_Previous>
       <Filename_Generic></Filename_Generic>
@@ -123,6 +123,21 @@
     <NewsFeed_Description_70></NewsFeed_Description_70>
     <NewsFeed_Description_250></NewsFeed_Description_250>
   </NewsFeed>
+  <Site>
+    <Site_Contact_First_Name>Ian</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>sun</Site_Contact_Last_Name>
+    <Site_Contact_Email>app.romanysoft@gmail.com</Site_Contact_Email>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>XLS2csv for Mac</Site_Site_Title>
+    <Site_Site_URL>https://romanysoft.github.io/XLS2csv</Site_Site_URL>
+    <Site_Description_100>process Excel (. xls) file to CSV.</Site_Description_100>
+    <Site_Description_250>Simple, but powerful kernel Excel (. xls) file Export CSV tool  Export excle(.xls) to csv very quickly. Support Batch conversion. Support conversion custom options. Preview excle data and select all sheet (or one sheet) are supported</Site_Description_250>
+    <Site_Description_450>Simple, but powerful kernel Excel (. xls) file Export CSV tool  Export excle(.xls) to csv very quickly. Support Batch conversion. Support conversion custom options. Preview excle data and select all sheet (or one sheet) are supported</Site_Description_450>
+    <Site_Keywords>csv, excel, xls</Site_Keywords>
+  </Site>
   <Download_Link_Points_To_Non_Binary_File>TRUE</Download_Link_Points_To_Non_Binary_File>
   <Temp_Icon>https://cdnjs.cloudflare.com/ajax/libs/fatcow-icons/20130425/FatCow_Icons32x32/lcd_tv.png</Temp_Icon>
   <PAD_Certification_Promotion>
@@ -177,8 +192,8 @@
   <Program_Descriptions>
     <English>
       <Keywords>csv, excel, xls</Keywords>
-      <Char_Desc_45>Simple, but powerful kernel Excel (. xls) fil</Char_Desc_45>
-      <Char_Desc_80>Simple, but powerful kernel Excel (. xls) file Export CSV tool</Char_Desc_80>
+      <Char_Desc_45>process Excel (. xls) file to CSV.</Char_Desc_45>
+      <Char_Desc_80>process Excel (. xls) file to CSV.</Char_Desc_80>
       <Char_Desc_250>Simple, but powerful kernel Excel (. xls) file Export CSV tool  Export excle(.xls) to csv very quickly. Support Batch conversion. Support conversion custom options. Preview excle data and select all sheet (or one sheet) are supported</Char_Desc_250>
       <Char_Desc_450>Simple, but powerful kernel Excel (. xls) file Export CSV tool  Export excle(.xls) to csv very quickly. Support Batch conversion. Support conversion custom options. Preview excle data and select all sheet (or one sheet) are supported</Char_Desc_450>
       <Char_Desc_2000>Simple, but powerful kernel Excel (. xls) file Export CSV tool
