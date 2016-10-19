@@ -14,7 +14,7 @@ _**XLS2csv**_ app. Simple, but powerful kernel Excel (. xls) file Export CSV too
 
 ***
 
-**[What's new?](https://romanysoft.github.io/SpeedTest/versions.html#)**
+**[What's new?](https://romanysoft.github.io/XLS2csv/versions.html#)**
 
 
 [![](https://romanysoft.github.io/XLS2csv/images/screens/common/c1.jpg)](https://romanysoft.github.io/XLS2csv)
