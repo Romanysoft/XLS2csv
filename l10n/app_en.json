@@ -58,6 +58,21 @@
         "labelVersion": "Version",
         "list": [
             {
+                "version":"{{4.19}}",
+                "updateDate": "{{2016.10.18}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{XLS2csv-v4.19.0-darwin-x64.dmg}}",
+                        "size": "{{8.54MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/1kqdk05ncybl/XLS2csv-v4.19.0-darwin-x64.zip}}",
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/XLS2csv/4.19.0/XLS2csv-v4.19.0-darwin-x64.dmg}}"
+                        ]
+                    }
+                ]
+            },             
+            {
                 "version":"{{4.18}}",
                 "updateDate": "{{2016.06.03}}",
                 "zipList": [
