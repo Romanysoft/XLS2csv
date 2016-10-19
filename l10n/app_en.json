@@ -16,7 +16,7 @@
         "BtnDownload": "Download",
         "BtnDownloadDescription": "Free | Official trial version.",
         "BtnBuy": "Buy",
-        "BtnBuyDescription": "$20 | Official free upgrade.",
+        "BtnBuyDescription": "$19.99 | Official free upgrade.",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -67,7 +67,7 @@
                         "size": "{{8.54MB}}",
                         "downURL": [
                           "{{http://www.filefactory.com/file/1kqdk05ncybl/XLS2csv-v4.19.0-darwin-x64.zip}}",
-                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/XLS2csv/4.19.0/XLS2csv-v4.19.0-darwin-x64.dmg}}"
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/XLS2csv/4.19.0/XLS2csv-v4.19.0-darwin-x64.zip}}"
                         ]
                     }
                 ]
