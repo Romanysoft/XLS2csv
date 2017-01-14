@@ -58,6 +58,18 @@
         "labelVersion": "Version",
         "list": [
             {
+                "version":"{{4.20}}",
+                "updateDate": "{{2017.01.14}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{XLS2csv-v4.20-darwin-x64.dmg}}",
+                        "size": "{{8.15MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7kt9hohzypwh/XLS2csv-v4.20-darwin-x64.zip}}"
+                    }
+                ]
+            },             
+            {
                 "version":"{{4.19}}",
                 "updateDate": "{{2016.10.18}}",
                 "zipList": [
