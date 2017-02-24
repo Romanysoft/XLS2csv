@@ -9,7 +9,12 @@
         reportIssueUrl:"//github.com/Romanysoft/XLS2csv/issues",
         changeLogUrl:"//github.com/Romanysoft/XLS2csv/wiki/Changelog",
         wikiUrl:"//github.com/Romanysoft/XLS2csv/wiki",
+        jumpLocation:"https://www.romanysoft.net/xls2csv/",
         romanysoftHome:"//www.romanysoft.com",
         copyright:"Copyright © " + (new Date()).getFullYear() + " Romanysoft LAB."
+    };
+    
+    if(window.RTYConfig.jumpLocation){
+        window.location = window.RTYConfig.jumpLocation;
     }
 })();
