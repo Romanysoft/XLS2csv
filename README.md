@@ -4,9 +4,9 @@ Welcome to the _**XLS2csv**_ wiki!
 
 [http://romanysoft.github.io/XLS2csv](http://romanysoft.github.io/XLS2csv)
 
-_**XLS2csv**_ app. Simple, but powerful to process Excel (. xls) file to CSV. 
+_**XLS2csv**_ app. Simple, but powerful to process Excel (.xls) file to CSV. 
 
-* (1) Preview excle data and select all sheet (or one sheet) are supported.
+* (1) Preview excel data and select all sheet (or one sheet) are supported.
 * (2) Setting csv file encoding and csv file separator are supported.
 * (3) Export progress and reveal in finder are supported.
 * (4) Support batch conversion
